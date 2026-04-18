@@ -1,2 +1,2 @@
 # Bishop-inc-github.io
-Professional portfolio website for Bishop-inc
+Professional portfolio with website and community hub for Bishop-inc
